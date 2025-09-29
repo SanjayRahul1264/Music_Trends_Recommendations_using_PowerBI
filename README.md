@@ -1,9 +1,11 @@
 # Music Trends Recommendations using Indian Spotify Data-A PowerBI Project
 
 **OVERVIEW:**
+
   This dataset is a collection of songs from various Indian and international music industries, carefully compiled using the Spotify API. It features a diverse range of tracks across multiple genres, making it an excellent resource for music analysis, recommendation systems, and trend forecasting. Whether you are a data scientist, music enthusiast, or developer, this dataset provides valuable insights into the world of music!
 
 **DATA COLLECTION:**
+ 
   The dataset was retrieved using the Spotify API, ensuring authenticity and up-to-date information. The songs span across different regions and genres, including Bollywood, Tollywood, Kollywood, Sandalwood, Mollywood, Punjabi, and English music.
 
 Dataset: https://www.kaggle.com/datasets/bhanuprakashchegondi/spotify-india-music
@@ -56,14 +58,18 @@ Spotify stakeholders (music analysts, playlist managers, and marketing teams) ne
 **OUTCOMES**
 
 Prioritize Indian Content for Mass Appeal: 
+
   The popularity and library depth are overwhelmingly driven by Bollywood, Punjabi, and Kollywood. Future content acquisition, marketing, and feature promotion (playlists, recommendations) should continue to heavily focus on these genres, especially around the major composers (Yuvan Shankar Raja, Pritam, Ilaiyaraaja).
 Capitalize on the Peak Season: Since popularity peaks in June/July, content release strategies, advertising campaigns, and platform events should be strategically timed to maximize engagement during this period.
 
 Balance Classic vs. Current: 
+
   The platform is successfully balancing a deep, enduring catalog of classics (e.g., Ilaiyaraaja, 1970s/80s Kollywood) with a high volume of new releases (68% in 2024, international albums in "Last 12 Months"). The strategy should be to use the classic library for foundational retention and the high volume of new releases for continuous, daily engagement and acquisition.
 
 Promote Emerging International Artists: 
+
   The presence of new international artists in "Recent Works" and "Album Works" shows a diversification effort. To build on this, the platform needs a clear strategy to push these artists beyond their low track counts/initial buzz and potentially integrate them more effectively with the highly engaged local audience.
 
 Focus on Hit Potential: 
+
   Artists with low track counts but high popularity (e.g., Aastha Gill) are indicators of successful single releases. The platform should analyze the characteristics of these "hit" tracks to inform future signing and promotion strategies.
