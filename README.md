@@ -2,7 +2,7 @@
 
 **OVERVIEW:**
 
-  This dataset is a collection of songs from various Indian and international music industries, carefully compiled using the Spotify API. It features a diverse range of tracks across multiple genres, making it an excellent resource for music analysis, recommendation systems, and trend forecasting. Whether you are a data scientist, music enthusiast, or developer, this dataset provides valuable insights into the world of music!
+  This project is a Music Streaming Data Analytics Dashboard designed to provide a comprehensive, 360-degree view of the platform's content library, artist performance, and listening trends. Utilizing data visualization (BI) tools, it translates complex streaming metrics—including track popularity, catalog growth, and genre distribution—into actionable business intelligence. The dashboard supports strategic decision-making in content acquisition, marketing spend optimization, and artist/repertoire (A&R) focus areas.
 
 **DATA COLLECTION:**
  
@@ -27,6 +27,15 @@ Dataset: https://www.kaggle.com/datasets/bhanuprakashchegondi/spotify-india-musi
 •	Popularity: A score (0-100) representing the popularity of the track on Spotify, based on streaming numbers and engagement.
 
 •	Genre: The genre of the track (Bollywood, Tollywood, Kollywood, Sandalwood, Mollywood, Punjabi, or English).
+
+**PROBLEM STATEMENT**
+The music platform lacks a unified, data-driven framework for rapidly assessing portfolio health and identifying high-value opportunities. Specifically, the business needed to answer:
+
+Which genres and artists drive the highest listener popularity (engagement and retention) versus simply having the largest catalog size?
+
+Is the high volume of new content acquisition leading to sustained listener interest, or is the platform overly reliant on its legacy library?
+
+How can we forecast peak engagement periods (e.g., June/July) to optimize marketing spend and content release schedules for maximum impact?
 
 **BUSINESS REQUIREMENT**
 Spotify stakeholders (music analysts, playlist managers, and marketing teams) need a consolidated dashboard to monitor song and artist performance across different dimensions.
