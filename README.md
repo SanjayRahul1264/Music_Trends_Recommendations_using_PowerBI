@@ -29,15 +29,23 @@ Dataset: https://www.kaggle.com/datasets/bhanuprakashchegondi/spotify-india-musi
 •	Genre: The genre of the track (Bollywood, Tollywood, Kollywood, Sandalwood, Mollywood, Punjabi, or English).
 
 **PROBLEM STATEMENT**
-The music platform lacks a unified, data-driven framework for rapidly assessing portfolio health and identifying high-value opportunities. Specifically, the business needed to answer:
 
-Which genres and artists drive the highest listener popularity (engagement and retention) versus simply having the largest catalog size?
+Currently, Spotify’s raw dataset is limited to lists and rankings, making it difficult for stakeholders to see patterns and take insights quickly.
 
-Is the high volume of new content acquisition leading to sustained listener interest, or is the platform overly reliant on its legacy library?
+From the screens, the key problems solved are:
 
-How can we forecast peak engagement periods (e.g., June/July) to optimize marketing spend and content release schedules for maximum impact?
+•	No clear KPI monitoring → Dashboard provides quick summary of total songs, artists, popularity, duration, etc.
+
+•	Difficulty in tracking song/album distribution → Visuals show breakdown by album type and release year.
+
+•	Trend visibility missing → Popularity and distinct songs trends are shown over time (monthly & yearly).
+
+•	Artist vs Song level insights not connected → Drill-down pages for Artists and Songs connect overview insights to detailed records.
+
+•	Decision-making gaps → Marketing and curation teams can now identify which artists/songs to promote, trends to follow, and which content resonates with audiences.
 
 **BUSINESS REQUIREMENT**
+
 Spotify stakeholders (music analysts, playlist managers, and marketing teams) need a consolidated dashboard to monitor song and artist performance across different dimensions.
 
 **1.	Intro Page**
